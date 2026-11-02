@@ -1,0 +1,7 @@
+node_modules
+.next
+*.log
+shot*.cjs
+install.log
+start.log
+dev.log
